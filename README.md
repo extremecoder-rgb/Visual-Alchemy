@@ -17,20 +17,7 @@ Visual Alchemy is an AI-powered image generation web app that transforms text pr
 1. Clone the repository:
    ```sh
    git clone https://github.com/extremecoder-rgb/Visual-Alchemy.git
-   cd Visual-Alchemy
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Set up environment variables:
-   ```sh
-   cp .env.example .env
-   ```
-   - Update `.env` file with necessary API keys and database credentials.
-4. Run the development server:
-   ```sh
-   npm run dev
+
    ```
 
 ## 📸 Usage
