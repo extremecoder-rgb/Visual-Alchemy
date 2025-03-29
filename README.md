@@ -42,11 +42,10 @@ Visual Alchemy is an AI-powered image generation web app that transforms text pr
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo, make your changes, and open a pull request.
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## 📬 Contact
-For any issues or feature requests, create an issue on the [GitHub repository](https://github.com/extremecoder-rgb/Visual-Alchemy/issues) or reach out to me on [LinkedIn](https://www.linkedin.com/in/extremecoder-rgb).
+For any issues or feature requests, create an issue on the [GitHub repository](https://github.com/extremecoder-rgb/Visual-Alchemy/issues) or reach out to me on [LinkedIn](https://www.linkedin.com/in/subhranil-mondal-537433318/).
 
 ---
 Happy Coding! 🚀
